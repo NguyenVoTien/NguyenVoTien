@@ -1,3 +1,7 @@
+<div align="center"> 
+<h1> 👨🏻‍💻 Hi I'm Nguyen Vo Tien, Fresher Dev 🔥</h1>
+<h3> 🤖 Frontend Web Developer 🤖</h3>
+</div>
 
 ![](Intro.gif)
 
