@@ -3,7 +3,7 @@
 <h3> 🤖 Frontend Web Developer 🤖</h3>
 </div>
 <div >
-<ul style="list-style-type:circle>
+<ul style="list-style-type:circle">
     <li>🎓 Trained for 4 years at Nha Trang University.</li>
     <li>😍 My hobbies are coding, reading, and learning more.</li>
     <li>💌 Contact me at tiendevolopment@gmail.com.</li>
