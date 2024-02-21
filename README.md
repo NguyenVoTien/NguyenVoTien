@@ -2,6 +2,14 @@
 <h1> 👨🏻‍💻 Hi I'm Nguyen Vo Tien, Fresher Dev 🔥</h1>
 <h3> 🤖 Frontend Web Developer 🤖</h3>
 </div>
+<div >
+<ul>
+    <li>🎓 Trained for 4 years at Nha Trang University.</li>
+    <li>😍 My hobbies are coding, reading, and learning more.</li>
+    <li>💌 Contact me at tiendevolopment@gmail.com.</li>
+</ul>
+
+</div>
 
 ![](Intro.gif)
 
