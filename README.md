@@ -10,7 +10,7 @@
     <li>💌 Contact me at tienvo28052000@gmail.com.</li>
     <li> 
       Profile for me : <a href="https://profile-tien-fr.vercel.app/" target="_blank"> 
-      <img src= "https://avatars.githubusercontent.com/u/63088804?v=4" /> </a>
+      <img src= "https://avatars.githubusercontent.com/u/63088804?v=4" class="w-6 h-6 rounded-full" />  </a>
     </li>
 </ul>
 </div>
