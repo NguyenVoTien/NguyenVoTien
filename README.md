@@ -9,7 +9,7 @@
     <li>😍 My hobbies are coding, reading, and learning more.</li>
     <li>💌 Contact me at tienvo28052000@gmail.com.</li>
     <li> 
-      Profile for me : <a href="https://skillicons.dev">
+      Profile for me : <a href="https://profile-tien-fr.vercel.app/"> TienFrontendDev </a>
     </li>
 </ul>
 </div>
