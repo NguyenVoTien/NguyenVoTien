@@ -9,7 +9,7 @@
     <li>😍 My hobbies are coding, reading, and learning more.</li>
     <li>💌 Contact me at tienvo28052000@gmail.com.</li>
     <li> 
-      Profile for me : <a href="https://profile-tien-fr.vercel.app/"> TienFrontendDev </a>
+      Profile for me : <a href="https://profile-tien-fr.vercel.app/" target="_blank"> [![Profile](https://img.shields.io/badge/-My%20Notes-009e22?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAARCAQAAABHwVUUAAAAxklEQVQYlYWROw6BQRSFp1LRW4BaqUCswAJsQYJoJDQsAI0VSIgIpUKjIgqxAIlGoSXexPNz+ecvMDi3uvnmzD0zVymFkwI9ui/Vo4JH4SDEhE9diSkCZMkzZ0Wblq6pwBspJdcGWUgzJEqDOk3S1DTES5IyGwbi37FmL0eqNnQToc+RMQkZkCVHnI4NXYQZcZZmz/ZZOy429JGhJIHepQP5ZeKn/jr1zJMZWmkPZmi9c/ktUNCAtNP625kZ/tqKeuQtmvd5B5bhnUU8EVlfAAAAAElFTkSuQmCC&link=https://profile-tien-fr.vercel.app/)](https://profile-tien-fr.vercel.app/) </a>
     </li>
 </ul>
 </div>
