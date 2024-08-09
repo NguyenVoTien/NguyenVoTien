@@ -9,8 +9,8 @@
     <li>😍 My hobbies are coding, reading, and learning more.</li>
     <li>💌 Contact me at tienvo28052000@gmail.com.</li>
     <li> 
-      Profile for me : <a href="https://profile-tien-fr.vercel.app/" target="_blank"> 
-      <img src= "https://avatars.githubusercontent.com/u/63088804?v=4" style="width: 24px; height: 24px; border-radius: 50%;" />  </a>
+      Profile for me : 
+      <a href="https://profile-tien-fr.vercel.app/" target="_blank">profile-tien-fr.vercel.app</a>
     </li>
 </ul>
 </div>
