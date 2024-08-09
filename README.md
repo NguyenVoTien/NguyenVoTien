@@ -9,8 +9,12 @@
     <li>😍 My hobbies are coding, reading, and learning more.</li>
     <li>💌 Contact me at tiendevolopment@gmail.com.</li>
 </ul>
-
 </div>
+
+![](./assets/header_.png)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=console.log(%22I'm+Nguyen+Vo+Tien%22);console.log(%22I+code+Javascript%22);console.log(%22and+code+Go%22);console.log(%22and+TypeScript%22))](https://git.io/typing-svg)
+
 
 ![](Intro.gif)
 
@@ -20,6 +24,8 @@
 # ✍️Random Dev Quote & 📊GitHub Stats  
 
 ![](https://github-readme-stats.vercel.app/api?username=nguyenvotien&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true) 
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fdhhhdjd&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" >
 
 <h1>💻Programming Languages Showcase </h1>
 <p align="center">
