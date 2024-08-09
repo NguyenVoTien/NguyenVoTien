@@ -7,7 +7,10 @@
 <ul style="list-style-type:circle">
     <li>🎓 Trained for 4 years at Nha Trang University.</li>
     <li>😍 My hobbies are coding, reading, and learning more.</li>
-    <li>💌 Contact me at tiendevolopment@gmail.com.</li>
+    <li>💌 Contact me at tienvo28052000@gmail.com.</li>
+    <li> 
+      Profile for me : <a href="https://skillicons.dev">
+    </li>
 </ul>
 </div>
 
