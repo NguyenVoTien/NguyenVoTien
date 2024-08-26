@@ -1,9 +1,8 @@
 <div align="center"> 
 <h1> 👨🏻‍💻 Hi I'm Nguyen Vo Tien, Fresher/Freelancer Dev 🔥</h1>
-<h3> 🤖 Frontend Web Developer 🤖</h3>
+<h3> 🤖 Frontend Developer 🤖</h3>
 </div>
 <div >
-<h3>I worked as a frontend web developer at software company.</h3>
 <ul style="list-style-type:circle">
     <li>🎓 Trained for 4 years at Nha Trang University.</li>
     <li>😍 My hobbies are coding, reading, and learning more.</li>
